@@ -16,12 +16,12 @@
             <div class="collapse" id="ui-basic">
               <ul class="nav flex-column sub-menu">
                 <li class="nav-item"> <a class="nav-link" href="/data-penduduk">Data Penduduk</a></li>
-                <li class="nav-item"> <a class="nav-link" href="pages/ui-features/dropdowns.html">Data Users</a></li>
+                <li class="nav-item"> <a class="nav-link" href="/data-user">Data Users</a></li>
               </ul>
             </div>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="pages/documentation/documentation.html">
+            <a class="nav-link" href="/daftar-pengajuan">
               <i class="icon-paper menu-icon"></i>
               <span class="menu-title">Daftar Pengajuan</span>
             </a>

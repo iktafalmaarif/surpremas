@@ -7,6 +7,9 @@
                 <div class="card">
                     <div class="card-body">
                     <h4 class="card-title">Data Penduduk</h4>
+                    <a href="/form-pengajuan-penduduk" class="btn btn-sm btn-primary">
+                    <i class="fa-regular fa-plus mr-2"></i>Tambah Data 
+                    </a>
                   <div class="table-responsive">
                     <table class="table">
                       <thead>
